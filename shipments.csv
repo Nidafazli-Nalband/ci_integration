@@ -1,0 +1,11 @@
+id,status,delivery_days
+S001,Delivered,3
+S002,Delivered,5
+S003,Delayed,8
+S004,Delivered,4
+S005,Delivered,2
+S006,Delayed,7
+S007,Delivered,6
+S008,Delivered,3
+S009,Delivered,4
+S010,Delayed,9
